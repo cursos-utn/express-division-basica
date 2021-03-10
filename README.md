@@ -9,6 +9,10 @@ git clone https://github.com/cursos-utn/express-division-basica.git
 ```
 
 ```bash
+cd express-division-basica
+```
+
+```bash
 npm install
 ```
 

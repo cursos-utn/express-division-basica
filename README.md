@@ -18,4 +18,4 @@ npm install
 node app.js
 ```
 
-Abrir el navegador y acceder a `http://localhost:3000`
+Abrir el navegador y acceder a `http://localhost:3000/api/personas`
